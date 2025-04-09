@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import css from './Searchbar.module.css';
+import css from './SearchBar.module.css';
 import { toast } from 'react-hot-toast';  
 import { FaSearch } from 'react-icons/fa';  
 
