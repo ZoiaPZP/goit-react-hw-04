@@ -39,3 +39,7 @@
 .modalInfo strong {
   font-weight: bold;
 }
+
+.modalInfo a {
+  color: inherit;
+}
